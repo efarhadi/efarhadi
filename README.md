@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esmaeil Farhadi</h1>
 <h3 align="center">A Flutter developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif" alt="efarhadi" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/efarhadi](https://github.com/efarhadi)
 
