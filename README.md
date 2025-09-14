@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/efarhadi](https://github.com/efarhadi)
 
-- 💬 Ask me about **Flutter , Dart**
+- 💬 Ask me about **Flutter , Dart , Python**
 
 - 📫 How to reach me **mr2c2r@gmail.com**
 
